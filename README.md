@@ -1,4 +1,4 @@
-blink-nano
+avr keypad with 128x32 oled and keypad 4x4
 ==========
 
 Rust project for the _Arduino Nano_.
